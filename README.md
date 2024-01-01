@@ -11,7 +11,7 @@
 [![startup-manager](https://nodei.co/npm/startup-manager.png "startup-manager on NPM")](https://www.npmjs.com/package/startup-manager)
 ---
 
-# Win Startup
+# Startup Manager
 An easy way to manage startup apps in NodeJS.
 
 ---
@@ -40,7 +40,7 @@ const StartupManager = require('startup-manager');
 // or `import * as StartupManager from 'startup-manager';` for ESM users
 ```
 \
-You can use the following functions with this library, mroe usage info available in the parameters section
+You can use the following functions with this library, more usage info available in the parameters section
 ```javascript
 const StartupManager = require('startup-manager');
 // or `import * as StartupManager from 'startup-manager';` for ESM users
