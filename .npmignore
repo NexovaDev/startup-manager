@@ -1,0 +1,15 @@
+# Local history
+.history/
+
+# Github
+assets/
+.github/
+
+# ESlint config
+.eslintrc.json
+
+# Packaged builds
+builds/
+
+# Tests
+tests/

@@ -1,0 +1,8 @@
+# Local history
+.history/
+
+# Dependency directories
+node_modules/
+
+# Packaged builds
+builds/
