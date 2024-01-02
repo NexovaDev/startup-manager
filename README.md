@@ -16,9 +16,12 @@ An easy way to manage startup apps in NodeJS.
 
 ---
 
-# Changelog (`v1.0.0`)
+# Changelog (`v1.1.0`)
 
-• Initial release
+• Fix Disable function not working \
+• Improve performance \
+• Return proper ResultObject \
+• And more bug fixes!
 
 ---
 
